@@ -19,10 +19,10 @@ For more details check out [Contribution section](#Contribution).
 
 ## Disclaimer:
 
-As I have mentioned above, this GitHub Organization is created for sole purpose of Learning and preparing for Lab Exams. 
-I [Shamith Nakka](https://github.com/iamwatchdogs "goto my @iamwatchdogs") *(creator of this GitHub Organization)* am not responsible for any malpractice/improper/illegal use of any repository present in this Organization.
-And it's my duty to minimize the possiblity of any misusage of this Organization. 
-I will not be taking any responsibility, if any of the student was found cheating in Lab exams using any of the forked Repos from this Organization.
+As I have mentioned above, this GitHub Organization is created for sole purpose of **Learning and preparing for Lab Exams**. 
+I [Shamith Nakka](https://github.com/iamwatchdogs "goto my @iamwatchdogs") *(creator of this GitHub Organization)* am **NOT** responsible for any *malpractice/improper/illegal* use of any repository present in this Organization.
+And it's my duty to minimize the possiblity of any *misuse* of this Organization. 
+I will **NOT** be taking any responsibility, if any of the *student was found cheating* in Lab exams using any of the forked Repos from this Organization.
 
 
 <br/>
@@ -59,7 +59,19 @@ You can follow the folloein basic step to started:
 
 - **Step 1:** Fork any repo into your own personal GitHub account.
 
+<div align="center">
+
+![Forking a Repo](https://media.geeksforgeeks.org/wp-content/uploads/20220323232607/Screenshot20220323232536.png)
+  
+</div>
+
 - **Step 2:** Clone the forked repo into your own personal system.
+
+<div align="center">
+
+![Cloning a Repo](https://media.geeksforgeeks.org/wp-content/uploads/20201220230314/Screenshot146.png)
+  
+</div>
 
 ```bash
 # Use git clone command to download and set the remote url at a time.
