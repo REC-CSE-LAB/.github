@@ -3,8 +3,8 @@
 This Public GitHub Organization is created for ***Learning Purpose Only***.
 Please `Don't misuse` Any of Lab Repo present in this Organization as I have created this organization only for Learning and Lab exam preparation.
 Hope you find this organization and Repos in it useful.
-You are welcomed to contribute to any of the Repos present in the organization.
-You're also welcomed to add any of your Repo related to CSE Labs.
+You are welcome to contribute to any of the Repos present in the organization.
+You're also welcome to add any of your Repo related to CSE Labs.
 For more details check out [Contribution section](#Contribution).
 
 > **Note**
@@ -48,9 +48,9 @@ This Public GitHub Organization is basically collection of REC Lab session. As f
 I heartly welcome people who are willing to [Contribution](#Contribution "Contribution means merging your work towards the repo into the original repo") to any of the repos present in this public organization.
 Make sure you are fimilar with the following skills required:
 
-- **Lab related skills*** *( like programming language and stuff )*.
-- **Git***.
-- **GitHub***.
+- ***Lab related skills** *( like programming language and stuff )*.
+- ***Git**.
+- ***GitHub**.
 - GitHub flavored Markdown Language *( optional, but still recommended to acquire )*.
 - VS Code *( suggested )*.
 
