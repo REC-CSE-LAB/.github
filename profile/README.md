@@ -55,7 +55,7 @@ Make sure you are fimilar with the following skills required:
 - VS Code *( suggested )*.
 
 After you're comfortable with the above mentioned skills, then you can start contributing to the repos.
-You can follow the folloein basic step to started:
+You can follow these basic step to started:
 
 - **Step 1:** Fork any repo into your own personal GitHub account.
 
